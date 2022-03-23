@@ -1,0 +1,48 @@
+div.justify-left{
+    text-align: left;
+}
+
+div.justify-center{
+    text-align: center;
+}
+
+li{
+    margin-left: 5%;
+}
+
+img.logo{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h3.title{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+img.project-preview{
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+div.education p{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+div.education h2{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+div.contact {
+    height: fit-content;
+    width: 100%;
+    padding-top: 0px;
+    margin-top: 0px;
+}
